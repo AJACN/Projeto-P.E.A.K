@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Wings",
+    "subtitulo": "Yi Sang",
+    "ano": 1936
+  },
+  {
+    "id": 2,
+    "titulo": "Faust",
+    "subtitulo": "Johann Wolfgang von Goethe",
+    "ano": 1790
+  },
+  {
+    "id": 3,
+    "titulo": "Don Quixote",
+    "subtitulo": "Miguel de Cervantes",
+    "ano": 1605
+  },
+  {
+    "id": 4,
+    "titulo": "Hell Screen",
+    "subtitulo": "Ryūnosuke Akutagawa",
+    "ano": 1918
+  },
+  {
+    "id": 5,
+    "titulo": "The Stranger",
+    "subtitulo": "Albert Camus",
+    "ano": 1942
+  },
+  {
+    "id": 6,
+    "titulo": "Dream of the Red Chamber",
+    "subtitulo": "Cao Xueqin",
+    "ano": 1791
+  },
+  {
+    "id": 7,
+    "titulo": "Wuthering Heights",
+    "subtitulo": "Emily Brontë",
+    "ano": 1847
+  },
+  {
+    "id": 8,
+    "titulo": "Moby-Dick",
+    "subtitulo": "Herman Melville",
+    "ano": 1851
+  },
+  {
+    "id": 9,
+    "titulo": "Crime and Punishment",
+    "subtitulo": "Fyodor Dostoevsky",
+    "ano": 1866
+  },
+  {
+    "id": 10,
+    "titulo": "Divine Comedy",
+    "subtitulo": "Dante Alighieri",
+    "ano": 1321
+  },
+  {
+    "id": 11,
+    "titulo": "Demian",
+    "subtitulo": "Hermann Hesse",
+    "ano": 1919
+  },
+  {
+    "id": 12,
+    "titulo": "Odyssey",
+    "subtitulo": "Homer",
+    "ano": 1488
+  },
+  {
+    "id": 13,
+    "titulo": "The Metamorphosis",
+    "subtitulo": "Franz Kafka",
+    "ano": 1915
+  }
+]
