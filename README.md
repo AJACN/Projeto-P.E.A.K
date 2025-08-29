@@ -37,7 +37,7 @@ Para executar este projeto localmente, siga os passos abaixo:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
+    git clone [https://github.com/AJACN/Projeto-P.E.A.K.git](https://github.com/AJACN/Projeto-P.E.A.K.git)
     ```
 
 2.  **Navegue até a pasta do projeto:**
